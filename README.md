@@ -1,5 +1,17 @@
+Resumo?
+Payload: colar na linha 1143
+Tema: colar na linha 819
+Criptografar: cópia tudo e cole no site https://www.aesencryptiononline.com/2022/03/aes-encryption-function-ontools.html
+Login: atlwo301
+Cópia o arquivo criptografado e substitua pelo original do aplicativo e "pronto".
+
+############################
+Cole na linha 1143
 Pauload
 https://bitbin.it/wIwF4DOn/raw/
+
+#############################
+Escolha um tema e cole na linha 819
 
 Corinthians
 https://bitbin.it/JREvfNdf/raw/

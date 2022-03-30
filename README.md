@@ -19,6 +19,9 @@ https://bitbin.it/A2jkPTa3/raw/
 ####Payload####
 https://bitbin.it/wIwF4DOn/raw/
 
+####Free Fire####
+https://bitbin.it/FbkIXfsf/raw/
+
 ####Temas####
 Corinthians
 https://bitbin.it/JREvfNdf/raw/
